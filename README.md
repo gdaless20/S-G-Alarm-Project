@@ -15,7 +15,7 @@ Alarm Project
 [The Trello Board] (https://trello.com/b/HXzDjR6X/alarm-project)  
 
 
-! [] https://github.com/gdaless20/S-G-Alarm-Project/blob/main/yrduy65dryrd.PNG
+! []https://github.com/gdaless20/S-G-Alarm-Project/blob/main/yrduy65dryrd.PNG
 
 
 
